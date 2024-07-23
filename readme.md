@@ -1,13 +1,18 @@
-[17:35] Yurko Fedoriv
+# Problem Statement
 
 https://s3.amazonaws.com/static.nutritionix.com/1.json
+
 https://s3.amazonaws.com/static.nutritionix.com/2.json
  
 Load the content of the files from the URLs.
+
 Merge 2 arrays into single one. 
+
 Output the contents of the array sorted by ID
+
 Output the contents of the array  sorted lex by type
 
+```
 [
   {
     "id":   1,
@@ -18,3 +23,4 @@ Output the contents of the array  sorted lex by type
     "type": "PROD_B"
   }
 ]
+```
